@@ -1,0 +1,22 @@
+description: >
+    Provide functions for testing interfaceAdded signal
+properties:
+    - name: GpuTemp0
+      type: string
+      description: >
+        A property
+
+    - name: GpuTemp1
+      type: string
+      description: >
+        A property
+
+    - name: GpuTemp2
+      type: string
+      description: >
+        A property
+
+    - name: GpuTemp3
+      type: string
+      description: >
+        A property

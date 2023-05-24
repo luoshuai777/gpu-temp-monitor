@@ -1,0 +1,1 @@
+subdir('interfaceAdded_yaml_object_interface_gpu_temp_monitor')
